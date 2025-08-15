@@ -34,7 +34,7 @@ The model uses the [NinaPro DB1 dataset](http://ninapro.hevs.ch/) which contains
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/emg-gesture-recognition.git
+git clone https://github.com/yourusername/CNN-LSTM.git
 cd emg-gesture-recognition
 ```
 
