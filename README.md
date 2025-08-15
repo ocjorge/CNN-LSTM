@@ -38,6 +38,7 @@ cd emg-gesture-recognition
 2. Install dependencies:
 ```bash
 pip install -r requirements.txt
+```
 
 ## 🚀 Usage
 Download the NinaPro DB1 dataset and place it in the ninapro_db1_data folder
@@ -47,7 +48,7 @@ Run the main script:
 python emg_gesture_recognition.py
 Configuration Options
 Modify these parameters in the script:
-
+```
 ```python
 # --- Data parameters ---
 SUBJECT_ID = 1                     # Subject to process (1-27)
@@ -68,7 +69,7 @@ Metric	Training	Validation
 Accuracy	92.4%	85.7%
 Loss	0.21	0.48
 https://via.placeholder.com/600x300.png?text=Training+and+Validation+Curves
-
+```
 ## 🤝 Contributing
 Contributions are welcome! Please open an issue or submit a pull request.
 
