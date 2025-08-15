@@ -4,6 +4,9 @@
 [![Python](https://img.shields.io/badge/Python-3.7%2B-blue)](https://www.python.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)](https://www.tensorflow.org/)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+  [![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?logo=Keras&logoColor=white)](https://keras.io)
+[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+[![Downloads](https://static.pepy.tech/badge/your-package-name)](https://pepy.tech/project/your-package-name)
 
 A hybrid CNN-LSTM model for sEMG-based gesture recognition using the NinaPro DB1 dataset.
 
@@ -82,17 +85,6 @@ Atzori, M., et al. (2014). "The NinaPro database: Evaluation of hand movement re
 Geng, W., et al. (2016). "A novel hybrid CNN-LSTM scheme for sEMG-based gesture recognition."
 
 
-- **Framework**: 
-  ```markdown
-  [![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?logo=Keras&logoColor=white)](https://keras.io)
-Code Style:
-
-markdown
-[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
-Downloads:
-
-markdown
-[![Downloads](https://static.pepy.tech/badge/your-package-name)](https://pepy.tech/project/your-package-name)
 Remember to:
 
 Replace placeholder images with actual screenshots/plots from your project
