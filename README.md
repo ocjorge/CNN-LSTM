@@ -33,6 +33,7 @@ The model uses the [NinaPro DB1 dataset](http://ninapro.hevs.ch/) which contains
 ```bash
 git clone https://github.com/yourusername/emg-gesture-recognition.git
 cd emg-gesture-recognition
+```
 
 2. Install dependencies:
 ```bash
